@@ -42,29 +42,50 @@ I am a Computer Science and Engineering student passionate about software engine
 
 ## Technical Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
-###  Frontend Development
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-###  Backend & Database
+</td>
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<tr>
+<td width="50%" valign="top">
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
+
+</td>
+<td width="50%" valign="top">
 
 ### Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins,postman" />
 </p>
+
+</td>
+</tr>
+</table>
+
 
 ## Featured Projects
 
