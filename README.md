@@ -1,24 +1,30 @@
 
-
 <div align="center">
 
 # ✨ The Digital Journey
 
 <h2>Hello, World! I'm Harini C 👋</h2>
 
-<i>“Dream in possibilities, think in logic, and create with code.”</i><br>
+<i>“Dream in possibilities, think in logic, and create with code.”</i>
+
+<br/><br/>
+
 <b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
 
-<br/>
+<br/><br/>
 
 <img src="cropped_circle_image.png"
      alt="Harini's Profile Picture"
-     width="170"
-     height="170"
-     style="border-radius: 50%; object-fit: cover;"/>
+     width="145"
+     height="145"/>
+
 <br/><br/>
 
-I enjoy transforming ideas into impactful digital experiences through full stack development and artificial intelligence. Always curious to explore new technologies, solve challenging problems, and build solutions that make a difference.
+<p align="center">
+  Passionate about building web applications and intelligent solutions.
+  Exploring emerging technologies, solving challenging problems, and
+  turning creative ideas into practical software.
+</p>
 
 </div>
 
