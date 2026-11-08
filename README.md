@@ -66,42 +66,60 @@ I am a Computer Science and Engineering student passionate about software engine
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins" />
 </p>
 
----
-
-
 ## Featured Projects
 
-### 1. Smart Campus Facility Booking System
-**Tech Stack:** MERN Stack, NLP
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-- Developed a web application for campus facility booking and reservation management.
-- Implemented facility availability tracking for students and faculty.
-- Integrated an AI-powered chatbot to assist users with bookings.
+### 1. Smart Campus Facility Booking System
+
+**MERN Stack | NLP**
+
+A campus facility reservation platform that enables students and faculty to check availability, book facilities, and manage reservations with AI chatbot assistance.
+
+<img src="./assets/smart-campus.png" width="300" alt="Smart Campus Project"/>
+
+</td>
+<td width="50%" align="center" valign="top">
 
 ### 2. Payroll Management System
-**Tech Stack:** MERN Stack
 
-- Developed a payroll management application to automate employee salary calculations.
-- Implemented attendance management, leave tracking, and payslip generation.
-- Designed the system to streamline payroll operations for KR Mill.
+**MERN Stack**
+
+A payroll automation system for KR Mill that streamlines employee salary calculation, attendance management, leave tracking, and payslip generation.
+
+<img src="./assets/payroll.png" width="300" alt="Payroll Project"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
 
 ### 3. Choice Based Credit System (CBCS)
-**Tech Stack:** MERN Stack
 
-- Developed a web application to streamline academic course selection and subject registration.
-- Implemented faculty allocation and credit management functionalities.
-- Designed modules for students and administrators.
+**MERN Stack**
 
-### 4. Empower Her – Women's Safety Application
-**Tech Stack:** Figma, MERN Stack
+An academic management platform that simplifies course selection, subject registration, faculty allocation, and credit management for students and administrators.
 
-- Designed a women's safety application prototype extending the Kavalan Udhavi application.
-- Focused on improving accessibility and safety through a user-centered design approach.
-- Developed the prototype based on insights from Thoothukudi Police.
+<img src="./assets/cbcs.png" width="300" alt="CBCS Project"/>
 
+</td>
+<td width="50%" align="center" valign="top">
 
+### 4. Empower Her – Women's Safety App
 
----
+**Figma | MERN Stack**
+
+A women's safety application prototype designed around insights from Thoothukudi Police, extending the Kavalan Udhavi app concept with a user-focused approach.
+
+<img src="./assets/empower-her.png" width="300" alt="Empower Her Project"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🏆 Achievements
 
