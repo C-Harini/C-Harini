@@ -146,94 +146,50 @@ A women's safety application prototype designed around insights from Thoothukudi
 </table>
 
 
+
 ## Achievements & Recognition
 
-<table>
-<tr>
-<td align="center" width="20%">
+<div align="left">
 
-**DEC 2025**
+<p>
+<b>DEC 2025</b> &nbsp; | &nbsp; <b>NASA Space Apps Challenge</b><br/>
+<b>Global Nominee</b><br/>
+Recognized as a Global Nominee in the NASA Space Apps Challenge.
+</p>
 
-</td>
-<td width="80%">
+<hr/>
 
-### NASA Space Apps Challenge
+<p>
+<b>SEP 2025</b> &nbsp; | &nbsp; <b>Blend Coding – Vel Tech</b><br/>
+<b>First Prize</b><br/>
+Secured first place at Vel Tech High Tech College of Engineering, Chennai.
+</p>
 
-**Global Nominee**
+<hr/>
 
-Recognized as a Global Nominee in the international NASA Space Apps Challenge.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**SEP 2025**
-
-</td>
-<td>
-
-### Blend Coding – Vel Tech
-
-**First Prize**
-
-Vel Tech High Tech College of Engineering, Chennai.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**AUG 2025**
-
-</td>
-<td>
-
-### IIT Bombay Mapathon
-
-**Notable Participant**
-
+<p>
+<b>AUG 2025</b> &nbsp; | &nbsp; <b>IIT Bombay Mapathon</b><br/>
+<b>Notable Participant</b><br/>
 Recognized as a notable participant in the IIT Bombay Mapathon.
+</p>
 
-</td>
-</tr>
+<hr/>
 
-<tr>
-<td align="center">
+<p>
+<b>APR 2025</b> &nbsp; | &nbsp; <b>Code Rewind</b><br/>
+<b>First Prize</b><br/>
+Won first place at M.K. Kumarasamy College of Engineering, Karur.
+</p>
 
-**APR 2025**
+<hr/>
 
-</td>
-<td>
-
-### Code Rewind
-
-**First Prize**
-
-M.K. Kumarasamy College of Engineering, Karur.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**MAR 2025**
-
-</td>
-<td>
-
-### Thoothukudi Cyber Hackathon
-
-**Top 19 Among 470 Teams**
-
+<p>
+<b>MAR 2025</b> &nbsp; | &nbsp; <b>Thoothukudi Cyber Hackathon</b><br/>
+<b>Top 19 Among 470 Teams</b><br/>
 Advanced to the final phase of the competition.
+</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 ## Experience & Internships
 
