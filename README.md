@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="YOUR_IMAGE_URL" width="170" height="170" style="border-radius:50%;" alt="Harini's Profile Picture"/>
+<img src="harini_linked_in_pic.jpg" width="170" height="170" style="border-radius:50%;" alt="Harini's Profile Picture"/>
 
 <br/><br/>
 
