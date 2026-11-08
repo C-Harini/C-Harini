@@ -38,8 +38,6 @@ I am a Computer Science and Engineering student passionate about software engine
 - Gained practical industry exposure through internships in MERN Stack Development and Artificial Intelligence.
 - Interested in Data Structures, Algorithms, and designing scalable software solutions.
 - Global Nominee at NASA Space Apps Challenge and winner of multiple coding competitions.
-
-
 ---
 
 ## 🛠️ Technical Skills
