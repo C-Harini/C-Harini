@@ -28,16 +28,17 @@
 
 </div>
 
+## About Me
 
----
+I am a Computer Science and Engineering student passionate about software engineering, full-stack development, and artificial intelligence. I enjoy exploring new technologies, solving complex problems, and developing applications that address real-world challenges.
 
-## 👩‍💻 About Me
+- Pursuing B.E. in Computer Science and Engineering at National Engineering College.
+- Experienced in building full-stack web applications using the MERN stack.
+- Exploring Artificial Intelligence, Machine Learning, and Natural Language Processing.
+- Gained practical industry exposure through internships in MERN Stack Development and Artificial Intelligence.
+- Interested in Data Structures, Algorithms, and designing scalable software solutions.
+- Global Nominee at NASA Space Apps Challenge and winner of multiple coding competitions.
 
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Full Stack Development and Artificial Intelligence
-- 🌱 Currently strengthening my DSA and development skills
-- 🔭 Exploring AI-powered applications and MERN Stack
-- 🎯 Aspiring Software Engineer
 
 ---
 
