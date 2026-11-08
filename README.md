@@ -145,72 +145,96 @@ A women's safety application prototype designed around insights from Thoothukudi
 </tr>
 </table>
 
+
 ## Achievements & Recognition
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td align="center" width="20%">
+
+**DEC 2025**
+
+</td>
+<td width="80%">
 
 ### NASA Space Apps Challenge
 
-**Global Nominee | 2025**
+**Global Nominee**
 
-Recognized as a Global Nominee for participation in the NASA Space Apps Challenge.
+Recognized as a Global Nominee in the international NASA Space Apps Challenge.
 
 </td>
-<td width="50%" valign="top" align="center">
+</tr>
+
+<tr>
+<td align="center">
+
+**SEP 2025**
+
+</td>
+<td>
 
 ### Blend Coding – Vel Tech
 
-**First Prize | September 2025**
+**First Prize**
 
-Secured first place in the Blend Coding competition at Vel Tech High Tech College of Engineering, Chennai.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-### Code Rewind
-
-**First Prize | April 2025**
-
-Won first place in the Code Rewind coding competition at M.K. Kumarasamy College of Engineering, Karur.
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### Thoothukudi Cyber Hackathon
-
-**Top 19 out of 470 Teams | March 2025**
-
-Advanced to the final phase among 470 participating teams.
+Vel Tech High Tech College of Engineering, Chennai.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td align="center">
+
+**AUG 2025**
+
+</td>
+<td>
 
 ### IIT Bombay Mapathon
 
-**Notable Participant | August 2025**
+**Notable Participant**
 
 Recognized as a notable participant in the IIT Bombay Mapathon.
 
 </td>
-<td width="50%" valign="top" align="center">
+</tr>
 
-### NPTEL Achievements
+<tr>
+<td align="center">
 
-**Elite & Top Performer Certifications**
+**APR 2025**
 
-Earned NPTEL certifications, including Top 2% in The Joy of Computing Using Python and Top 5% in Technical English for Engineers.
+</td>
+<td>
+
+### Code Rewind
+
+**First Prize**
+
+M.K. Kumarasamy College of Engineering, Karur.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**MAR 2025**
+
+</td>
+<td>
+
+### Thoothukudi Cyber Hackathon
+
+**Top 19 Among 470 Teams**
+
+Advanced to the final phase of the competition.
 
 </td>
 </tr>
 </table>
+
 
 
 ## 📊 GitHub Statistics
