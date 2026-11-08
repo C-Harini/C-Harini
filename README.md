@@ -191,13 +191,14 @@ Advanced to the final phase of the competition.
 
 </div>
 
+
 ## Experience & Internships
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="15">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border:0;">
 
 <h3>IIT Ropar</h3>
 
@@ -216,7 +217,7 @@ MongoDB · Express.js · React.js · Node.js
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border:0;">
 
 <h3>Hinelix Technologies</h3>
 
