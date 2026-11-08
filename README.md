@@ -68,14 +68,38 @@ I am a Computer Science and Engineering student passionate about software engine
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| AI Gmail Assistant | Intelligent email classification and task extraction | Python, NLP, AI |
-| Student Feedback System | Academic feedback management | MERN Stack |
-| Personal Portfolio | Responsive developer portfolio | React, Vite |
-| Flower Detection | Flower image classification | Python, TensorFlow |
+## Featured Projects
+
+### 1. Smart Campus Facility Booking System
+**Tech Stack:** MERN Stack, NLP
+
+- Developed a web application for campus facility booking and reservation management.
+- Implemented facility availability tracking for students and faculty.
+- Integrated an AI-powered chatbot to assist users with bookings.
+
+### 2. Payroll Management System
+**Tech Stack:** MERN Stack
+
+- Developed a payroll management application to automate employee salary calculations.
+- Implemented attendance management, leave tracking, and payslip generation.
+- Designed the system to streamline payroll operations for KR Mill.
+
+### 3. Choice Based Credit System (CBCS)
+**Tech Stack:** MERN Stack
+
+- Developed a web application to streamline academic course selection and subject registration.
+- Implemented faculty allocation and credit management functionalities.
+- Designed modules for students and administrators.
+
+### 4. Empower Her – Women's Safety Application
+**Tech Stack:** Figma, MERN Stack
+
+- Designed a women's safety application prototype extending the Kavalan Udhavi application.
+- Focused on improving accessibility and safety through a user-centered design approach.
+- Developed the prototype based on insights from Thoothukudi Police.
+
+
 
 ---
 
