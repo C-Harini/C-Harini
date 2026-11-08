@@ -241,13 +241,34 @@ Artificial Intelligence
 </div>
 
 
+## GitHub Statistics
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Harini&show_icons=true&theme=tokyonight" height="160" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Harini&layout=compact&theme=tokyonight" height="160" alt="Most used languages"/>
-</p>
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=C-Harini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="165"
+  alt="GitHub Statistics"
+/>
+
+<!-- Most Used Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Harini&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<!-- GitHub Contribution Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=C-Harini&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
 
 ---
 
