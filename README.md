@@ -235,40 +235,45 @@ Advanced to the final phase of the competition.
 </tr>
 </table>
 
-
 ## Experience & Internships
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="15">
+<table>
 <tr>
-<td width="50%" valign="top" align="center" style="border: none;">
+<td width="50%" align="center" valign="top">
 
-### IIT Ropar
+<h3>IIT Ropar</h3>
 
-**MERN Stack Development Intern**
+<b>MERN Stack Development Intern</b>
 
-*January 2026 – March 2026*
+<i>January 2026 – March 2026</i>
 
-Gained practical experience in full-stack web development and modern application development using the MERN stack.
+<p>
+Gained practical experience in full-stack web development
+and modern application development using the MERN stack.
+</p>
 
-**Focus Areas**
+<b>Focus Areas</b>
 
 MongoDB · Express.js · React.js · Node.js
 
 </td>
 
-<td width="50%" valign="top" align="center" style="border: none;">
+<td width="50%" align="center" valign="top">
 
-### Hinelix Technologies
+<h3>Hinelix Technologies</h3>
 
-**Artificial Intelligence Intern**
+<b>Artificial Intelligence Intern</b>
 
-*December 2025 – January 2026*
+<i>December 2025 – January 2026</i>
 
-Explored Artificial Intelligence concepts and their practical applications through internship activities.
+<p>
+Explored Artificial Intelligence concepts and their
+practical applications through internship activities.
+</p>
 
-**Focus Area**
+<b>Focus Area</b>
 
 Artificial Intelligence
 
@@ -277,6 +282,7 @@ Artificial Intelligence
 </table>
 
 </div>
+
 
 
 ## 📊 GitHub Statistics
