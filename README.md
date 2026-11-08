@@ -137,7 +137,7 @@ A women's safety application prototype designed around insights from Thoothukudi
 
 <br/>
 
-<img src="./assets/empower-her.png"
+<img src="./GIT/empowerher.jpg"
      width="300"
      alt="Empower Her Project"/>
 
