@@ -1,14 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Harini C</h1>
+<div align="center">
 
-<h3 align="center">
-  Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast
-</h3>
+# ✨ The Digital Journey
 
-<p align="center">
-  Passionate about building intelligent applications
-  and solving real-world problems through technology.
-</p>
+<h2>Hello, World! I'm Harini C 👋</h2>
+
+<i>“Dream in possibilities, think in logic, and create with code.”</i>
+
+<br/><br/>
+
+<b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
+
+<br/><br/>
+
+I enjoy exploring the world of technology, crafting intuitive web applications, and developing intelligent solutions that bridge the gap between ideas and real-world impact.
+
+</div>
 
 ---
 
@@ -24,25 +31,25 @@
 
 ## 🛠️ Technical Skills
 
-**Languages**
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
-**Frontend Development**
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-**Backend & Database**
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-**Tools**
+### 🧰 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins" />
@@ -63,34 +70,35 @@
 
 ## 🏆 Achievements
 
-- 🥇 First Prize – CodeRewind
-- 🥈 Second Place – Logic Ladder
-- Participated in Infosys HackWithInfy L3
-- Participated in multiple hackathons
+- 🥇 **First Prize** – CodeRewind
+- 🥈 **Second Place** – Logic Ladder
+- 💻 Participated in Infosys HackWithInfy L3
+- 🚀 Participated in multiple hackathons
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-Harini&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Harini&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=C-Harini&show_icons=true&theme=tokyonight" height="160" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Harini&layout=compact&theme=tokyonight" height="160" alt="Most used languages"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/C-Harini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
+
 <p align="center">
   💙 Learning | Building | Improving
 </p>
