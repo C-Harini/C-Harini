@@ -99,7 +99,7 @@ I am a Computer Science and Engineering student passionate about software engine
 
 A campus facility reservation platform that enables students and faculty to check availability, book facilities, and manage reservations with AI chatbot assistance.
 
-<img src="./assets/smart-campus.png" width="300" alt="Smart Campus Project"/>
+<img src="./GIT/campusbooking.png" width="300" alt="Smart Campus Project"/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -110,7 +110,7 @@ A campus facility reservation platform that enables students and faculty to chec
 
 A payroll automation system for KR Mill that streamlines employee salary calculation, attendance management, leave tracking, and payslip generation.
 
-<img src="./assets/payroll.png" width="300" alt="Payroll Project"/>
+<img src="./GIT/payroll.png" width="300" alt="Payroll Project"/>
 
 </td>
 </tr>
