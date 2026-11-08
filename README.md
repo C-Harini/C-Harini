@@ -124,7 +124,7 @@ A payroll automation system for KR Mill that streamlines employee salary calcula
 
 An academic management platform that simplifies course selection, subject registration, faculty allocation, and credit management for students and administrators.
 
-<img src="./assets/cbcs.png" width="300" alt="CBCS Project"/>
+<img src="./GIT/cbcs.jpg" width="300" alt="CBCS Project"/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -135,7 +135,7 @@ An academic management platform that simplifies course selection, subject regist
 
 A women's safety application prototype designed around insights from Thoothukudi Police, extending the Kavalan Udhavi app concept with a user-focused approach.
 
-<img src="./assets/empower-her.png" width="300" alt="Empower Her Project"/>
+<img src="./GIT/empowerher.jpg" width="300" alt="Empower Her Project"/>
 
 </td>
 </tr>
