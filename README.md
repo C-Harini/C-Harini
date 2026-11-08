@@ -241,34 +241,44 @@ Artificial Intelligence
 </div>
 
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Profile Summary -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=C-Harini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="165"
-  alt="GitHub Statistics"
-/>
-
-<!-- Most Used Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Harini&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Harini&theme=tokyonight"
+  width="95%"
+  alt="GitHub Profile Summary"
 />
 
 <br/><br/>
 
-<!-- GitHub Contribution Streak -->
+<!-- Most Used Languages -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C-Harini&theme=tokyonight"
+  height="165"
+  alt="Top Languages"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C-Harini&theme=tokyonight"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+<!-- Contribution Streak -->
 <img
   src="https://streak-stats.demolab.com?user=C-Harini&theme=tokyonight&hide_border=true"
-  width="70%"
+  width="80%"
   alt="GitHub Contribution Streak"
 />
 
 </div>
+
 
 ---
 
