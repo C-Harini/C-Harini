@@ -7,18 +7,18 @@
 
 <i>“Dream in possibilities, think in logic, and create with code.”</i>
 
-<br/><br/>
+<br>
 
 <b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
 
-<br/><br/>
+<br/>
 
 <img src="cropped_circle_image.png"
      alt="Harini's Profile Picture"
      width="145"
      height="145"/>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   Passionate about building web applications and intelligent solutions.
