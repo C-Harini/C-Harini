@@ -133,9 +133,13 @@ An academic management platform that simplifies course selection, subject regist
 
 **Figma | MERN Stack**
 
-A women's safety application prototype designed around insights from Thoothukudi Police, extending the Kavalan Udhavi app concept with a user-focused approach.
+A women's safety application prototype designed around insights from Thoothukudi Police.
 
-<img src="./GIT/empowerher.jpg" width="300" alt="Empower Her Project"/>
+<br/>
+
+<img src="./assets/empower-her.png"
+     width="300"
+     alt="Empower Her Project"/>
 
 </td>
 </tr>
