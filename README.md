@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="harini_linked_in_pic.jpg"
+<img src="cropped_circle_image.png"
      alt="Harini's Profile Picture"
      width="170"
      height="170"
