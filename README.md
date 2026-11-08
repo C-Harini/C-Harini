@@ -9,14 +9,13 @@
 <i>“Dream in possibilities, think in logic, and create with code.”</i><br>
 <b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
 
-<br/><br/>
+<br/>
 
-<img src="harini_linked_in_pic.jpg" width="170" height="170" style="border-radius:50%;" alt="Harini's Profile Picture"/>
-
-<br/><br/>
-
-
-
+<img src="harini_linked_in_pic.jpg"
+     alt="Harini's Profile Picture"
+     width="170"
+     height="170"
+     style="border-radius: 50%; object-fit: cover;"/>
 <br/><br/>
 
 I enjoy transforming ideas into impactful digital experiences through full stack development and artificial intelligence. Always curious to explore new technologies, solve challenging problems, and build solutions that make a difference.
