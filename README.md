@@ -40,27 +40,27 @@ I am a Computer Science and Engineering student passionate about software engine
 - Global Nominee at NASA Space Apps Challenge and winner of multiple coding competitions.
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins" />
