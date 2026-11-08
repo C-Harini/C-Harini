@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 # ✨ The Digital Journey
@@ -9,13 +10,18 @@
 
 <br/><br/>
 
+<img src="YOUR_IMAGE_URL" width="170" height="170" style="border-radius:50%;" alt="Harini's Profile Picture"/>
+
+<br/><br/>
+
 <b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
 
 <br/><br/>
 
-I enjoy exploring the world of technology, crafting intuitive web applications, and developing intelligent solutions that bridge the gap between ideas and real-world impact.
+I enjoy transforming ideas into impactful digital experiences through full stack development and artificial intelligence. Always curious to explore new technologies, solve challenging problems, and build solutions that make a difference.
 
 </div>
+
 
 ---
 
