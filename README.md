@@ -145,15 +145,73 @@ A women's safety application prototype designed around insights from Thoothukudi
 </tr>
 </table>
 
+## Achievements & Recognition
 
-## 🏆 Achievements
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-- 🥇 **First Prize** – CodeRewind
-- 🥈 **Second Place** – Logic Ladder
-- 💻 Participated in Infosys HackWithInfy L3
-- 🚀 Participated in multiple hackathons
+### NASA Space Apps Challenge
 
----
+**Global Nominee | 2025**
+
+Recognized as a Global Nominee for participation in the NASA Space Apps Challenge.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### Blend Coding – Vel Tech
+
+**First Prize | September 2025**
+
+Secured first place in the Blend Coding competition at Vel Tech High Tech College of Engineering, Chennai.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Code Rewind
+
+**First Prize | April 2025**
+
+Won first place in the Code Rewind coding competition at M.K. Kumarasamy College of Engineering, Karur.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### Thoothukudi Cyber Hackathon
+
+**Top 19 out of 470 Teams | March 2025**
+
+Advanced to the final phase among 470 participating teams.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### IIT Bombay Mapathon
+
+**Notable Participant | August 2025**
+
+Recognized as a notable participant in the IIT Bombay Mapathon.
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### NPTEL Achievements
+
+**Elite & Top Performer Certifications**
+
+Earned NPTEL certifications, including Top 2% in The Joy of Computing Using Python and Top 5% in Technical English for Engineers.
+
+</td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Statistics
 
