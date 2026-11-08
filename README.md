@@ -6,7 +6,7 @@
 
 <h2>Hello, World! I'm Harini C 👋</h2>
 
-<i>“Dream in possibilities, think in logic, and create with code.”</i>
+<i>“Dream in possibilities, think in logic, and create with code.”</i><br>
 <b>Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</b>
 
 <br/><br/>
